@@ -4,5 +4,10 @@ export const STRINGS = {
     incorrectIntroducedDate : '20202-13-32',
     correctDiscontinueDate : '2000-02-26',
     incorrectDiscontinuedDate : '1995-00-34',
-    computerName : 'IBM'
+    computerName : 'IBM',
+    correctComputerName : 'BlackBerry PlayBook',
+    incorrectComputerName : 'xyz',
+    specialCharAsComputerName : '@!#$%',
+    halfCompterName: 'all',
+    newName : 'ACE 2'
 }

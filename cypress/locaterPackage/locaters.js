@@ -4,7 +4,9 @@ export const LOCATERS = {
     introduced : '#introduced',
     discontinued : '#discontinued',
     company : '#company',
-    createThisComputer : '.primary'
+    createThisComputer : '.primary',
+    cancel : 'Cancel',
+    aceComputerName : 'ACE'
 }
 
 export const MESSAGE = {
